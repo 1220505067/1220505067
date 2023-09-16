@@ -1,6 +1,6 @@
 ### HELLO ITS CEM VURAL YILMAZ👋
 -  I’m currently learning Java
--  I’m looking to collaborate on save the planet
+-  I also write several articles: https://medium.com/@cemvuralyilmaz
 -  How to reach me: yilmazcemvural35@gmail.com
 
 <!--
