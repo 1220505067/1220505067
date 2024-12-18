@@ -1,7 +1,7 @@
 ### HELLO ITS CEM VURAL YILMAZ👋
 -  I’m currently learning Java
 -  I also write several articles: https://medium.com/@cemvuralyilmaz
--  How to reach me: yilmazcemvural35@gmail.com
+
 
 <!--
 **1220505067/1220505067** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
