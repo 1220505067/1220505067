@@ -1,5 +1,5 @@
 ### HELLO ITS CEM VURAL YILMAZ👋
--  I’m currently learning Java
+-  I’m currently learning Java and PHP
 -  I also write several articles: https://medium.com/@cemvuralyilmaz
 
 
